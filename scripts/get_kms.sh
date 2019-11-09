@@ -7,7 +7,7 @@ fi
 
 sleep 1
 echo "Downloading files…"
-# Get the release from the github
+# Get the release from the Wind4's github
 wget https://github.com/Wind4/vlmcsd/releases/download/svn1112/binaries.tar.gz
 
 tar -xvzf binaries.tar.gz
